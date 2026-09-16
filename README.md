@@ -18,7 +18,7 @@ The system uses a collection of pre-defined interview questions and can generate
 - Real-time feedback and teaching during roleplay
 - Support for technical and behavioral questions
 - Difficulty levels: Easy, Medium, Hard
-- Focus on Java/Spring ecosystem but extensible to other technologies
+- Extensible to any role or technology stack
 
 ## Setup Requirements
 
